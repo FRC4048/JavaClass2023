@@ -1,0 +1,29 @@
+{
+  "HALProvider": {
+    "Other Devices": {
+      "ADXRS450[0]": {
+        "header": {
+          "open": true
+        }
+      }
+    }
+  },
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/Shuffleboard/Commands/Commands/Move -1000": "Command",
+      "/Shuffleboard/Commands/Commands/Move -500": "Command",
+      "/Shuffleboard/Commands/Commands/Move 100": "Command",
+      "/Shuffleboard/Commands/Commands/Move 3000": "Command",
+      "/Shuffleboard/Commands/Commands/Move 500": "Command",
+      "/Shuffleboard/Commands/Commands/Turn to 0": "Command",
+      "/Shuffleboard/Commands/Commands/Turn to 180": "Command",
+      "/Shuffleboard/Commands/Commands/Turn to 45": "Command",
+      "/Shuffleboard/Commands/Commands/Turn to 90": "Command",
+      "/SmartDashboard/Field": "Field2d"
+    }
+  },
+  "NetworkTables View": {
+    "visible": false
+  }
+}
